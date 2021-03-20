@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! B3LYP OPT 6-31G*
+! Printgap
+* xyz 0 1
+   O       -2.16690        0.93336        0.00000
+   H       -1.19690        0.93336        0.00000
+   H       -2.49023        0.21546       -0.56655
+*
+
